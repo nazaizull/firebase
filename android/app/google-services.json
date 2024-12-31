@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "315669862290",
+    "project_id": "to-do-list-4c537",
+    "storage_bucket": "to-do-list-4c537.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315669862290:android:29b1dca4e846561f43534b",
+        "android_client_info": {
+          "package_name": "com.example.base_todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT93Go7EVh0f-FhLUUQRfr2sqIW7Iajd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315669862290:android:6eb56a621aabfb0a43534b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_todolistfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT93Go7EVh0f-FhLUUQRfr2sqIW7Iajd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
